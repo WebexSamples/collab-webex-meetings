@@ -1,6 +1,6 @@
 {
   "active": true,
-  "labId": "collab-Webex",
+  "labId": "collab-webex",
   "title": "Webex Meetings APIs",
   "slug": "Learn to use the Cisco Webex Meeting APIs to list a user's meetings, schedule a new meeting, invite attendees via email, and retrieve recordings.",
   "time": "15",
