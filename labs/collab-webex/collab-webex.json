@@ -1,23 +1,42 @@
 {
   "active": true,
-  "labId": "collab-webex",
-  "title": "Collaboration: Webex Meetings API",
-  "slug": "Learn to use the Cisco Webex Meeting API to list a user's meetings, schedule a new meeting, and invite attendees via email",
+  "labId": "collab-Webex",
+  "title": "Webex Meetings APIs",
+  "slug": "Learn to use the Cisco Webex Meeting APIs to list a user's meetings, schedule a new meeting, invite attendees via email, and retrieve recordings.",
   "time": "15",
   "tags": [
     {"title" : "Collaboration"},
-    {"title": "Webex Meetings API"},
+    {"title": "Webex"},
     {"title": "Beginner"}
   ],
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {
+      "title": "Intro and Overview",
+      "file": "1.md"
+    },
+    {
+      "title": "Create a Webex Meeting",
+      "file": "2.md"
+    },
+    {
+      "title": "Retreive a Meeting List",
+      "file": "3.md"
+    },
+    {
+      "title": "Add an Attendee",
+      "file": "4.md"
+    },
+    {
+      "title": "Delete a Meeting",
+      "file": "5.md"
+    },
+    {
+      "title": "Listing Meeting Recordings",
+      "file": "6.md"
+    }
   ],
   "byod": true,
   "authors": [
-  	{"name": "", "email": ""}
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
   ]
 }
